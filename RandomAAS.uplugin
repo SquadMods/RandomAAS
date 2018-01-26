@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RandomAAS",
+	"Description": "This mod adds both the base content allowing for random AAS maps to be made, and an example map (based on the kokan terrain)",
+	"Category": "Squad",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsMod": true,
+	"Installed": false
+}
